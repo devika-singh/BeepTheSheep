@@ -1,3 +1,4 @@
 # BeepTheSheep
-Game for HitScan 2022  A horror based platform game
-Online demo - bit.ly/3pJA95p
+Game for HitScan 2022  A horror based platform game  
+
+[Online Demo](bit.ly/3pJA95p)
