@@ -1,3 +1,4 @@
+import './style.css'
 const canvas = document.querySelector('canvas');
 const c = canvas.getContext('2d');
 
